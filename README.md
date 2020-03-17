@@ -7,3 +7,5 @@ these scores are/should be uncompressed (git cannot handle diffs very well when 
 for that purpose ive created a .gitignore file which only allows uncompressed file-suffixes.
 
 feel free to check this out. ;)
+
+you also might find some scores at: https://musescore.com/user/33748214
